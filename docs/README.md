@@ -1,3 +1,5 @@
+![Tests](https://github.com/leynhf/unit_test_for_geometry_lib/actions/workflows/main.yml/badge.svg)
+
 # Math formulas
 ## Area
 - Circle: S = πR²
