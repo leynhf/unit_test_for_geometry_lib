@@ -1,7 +1,8 @@
 def area(a, b):
     '''Принимает числа a и b, вовращает произведение a на b'''
-    return a*b
+    return a * b
+
 
 def perimeter(a, b):
     '''Принимает числа a и d, вовращает удвоенное произведение a на d'''
-    return 2*(a+b)
+    return 2 * (a + b)
